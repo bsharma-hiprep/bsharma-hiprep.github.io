@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Baibhav's Webpage
-email: your-email@example.com
+email: baibhavsharma[dot]tp97 [yatttt] gmail [period] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, Baibhav here. I am an incoming PhD student in the Program for Systems Neuroscience at Carnegie Mellon University's Neuroscience Institute. I love all things math and I passionate about understanding mechanisms of computation. Thanks for indulging my slightly less pretentious and pretentious ramblings. #BLM #StopAsianHate #FreePalestine #ButwhataboutSudan
+  Hello, Baibhav here. I am PhD student at Carnegie Mellon University's Neuroscience Institute. I love all things math and I passionate about understanding mechanisms of computation. Thanks for indulging my slightly less pretentious and pretentious ramblings. #BLM #StopAsianHate #FreePalestine #ButwhataboutSudan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bsharma-hiprep.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: baibhavtp97
+github_username:  bsharma-hiprep
 
 # Build settings
 theme: minima
